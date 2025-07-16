@@ -168,14 +168,9 @@ To deploy the app to a production environment:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📬 Contact
 
-For questions or feedback, reach out via [email@example.com](mailto:email@example.com) or open an issue on GitHub.
+For questions or feedback, reach out via [email@example.com](sahilpamin018@gmail.com) or open an issue on GitHub.
