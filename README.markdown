@@ -173,4 +173,4 @@ To deploy the app to a production environment:
 
 ## 📬 Contact
 
-For questions or feedback, reach out via [email@example.com](sahilpamin018@gmail.com) or open an issue on GitHub.
+For questions or feedback, reach out via [sahilpamin018@gmail.com](sahilpamin018@gmail.com) or open an issue on GitHub.
