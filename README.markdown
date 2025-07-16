@@ -40,7 +40,10 @@ The app detects one of the following emotions:
 
 ## 📸 Screenshots
 
-> *(Insert UI screenshots here if available)*
+
+<img width="1891" height="919" alt="Screenshot 2025-07-17 011821" src="https://github.com/user-attachments/assets/9ab70c2b-3731-4402-ab3d-7ffaedbb9695" />
+<img width="1883" height="936" alt="Screenshot 2025-07-17 011850" src="https://github.com/user-attachments/assets/33aacbe2-e51d-4cbe-af76-29dcce5cd4cd" />
+<img width="1831" height="873" alt="Screenshot 2025-07-17 011913" src="https://github.com/user-attachments/assets/a392a23a-152d-4364-aeb9-d0c0c052a484" />
 
 ---
 
